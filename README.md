@@ -1,6 +1,6 @@
 
 
-# NgBoiler
+# Angular/Material + Nestjs/Swagger (Full Stack Application)
 
 This project was generated using [Nx](https://nx.dev).
 
